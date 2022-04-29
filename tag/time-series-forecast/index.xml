@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Time Series Forecast | Yijun Su‘s Homepage</title>
+    <link>https://yijunsu.github.io/tag/time-series-forecast/</link>
+      <atom:link href="https://yijunsu.github.io/tag/time-series-forecast/index.xml" rel="self" type="application/rss+xml" />
+    <description>Time Series Forecast</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 20 Apr 2022 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://yijunsu.github.io/media/icon_hua828a018fbbdc401032aa7b1e2353e93_81559_512x512_fill_lanczos_center_3.png</url>
+      <title>Time Series Forecast</title>
+      <link>https://yijunsu.github.io/tag/time-series-forecast/</link>
+    </image>
+    
+    <item>
+      <title>Business AI Platform</title>
+      <link>https://yijunsu.github.io/project/business_ai-_platform/</link>
+      <pubDate>Wed, 20 Apr 2022 00:00:00 +0000</pubDate>
+      <guid>https://yijunsu.github.io/project/business_ai-_platform/</guid>
+      <description>&lt;p&gt;In view of the needs of large-scale commercial sales forecasting, supply and demand, auxiliary decision-making and other needs in the field of Commerce and Trade industry, the commerce and trade AI platform extracts reusable AI modules for commerce and trade applications from a large number of applications, such as community demand forecasting and region demand forecasting, and arranges open modules to make many intelligent functions build intelligent applications like building blocks.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;Community Demand Forecast&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Community Consumption Forecast&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Region Demand Forecast&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Region Consumption Forecast&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Category Sales Forecast&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Product Sales Forecast&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

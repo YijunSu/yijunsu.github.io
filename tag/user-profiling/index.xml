@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>User Profiling | Yijun Su‘s Homepage</title>
+    <link>https://yijunsu.github.io/tag/user-profiling/</link>
+      <atom:link href="https://yijunsu.github.io/tag/user-profiling/index.xml" rel="self" type="application/rss+xml" />
+    <description>User Profiling</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sun, 11 Apr 2021 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://yijunsu.github.io/media/icon_hua828a018fbbdc401032aa7b1e2353e93_81559_512x512_fill_lanczos_center_3.png</url>
+      <title>User Profiling</title>
+      <link>https://yijunsu.github.io/tag/user-profiling/</link>
+    </image>
+    
+    <item>
+      <title>Neural Demographic Prediction in Social Media with Deep Multi-View Multi-Task Learning</title>
+      <link>https://yijunsu.github.io/publication/conference-paper/2021-dasfaa-dmvmt/</link>
+      <pubDate>Sun, 11 Apr 2021 00:00:00 +0000</pubDate>
+      <guid>https://yijunsu.github.io/publication/conference-paper/2021-dasfaa-dmvmt/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

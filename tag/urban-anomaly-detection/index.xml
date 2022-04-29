@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Urban Anomaly Detection | Yijun Su‘s Homepage</title>
+    <link>https://yijunsu.github.io/tag/urban-anomaly-detection/</link>
+      <atom:link href="https://yijunsu.github.io/tag/urban-anomaly-detection/index.xml" rel="self" type="application/rss+xml" />
+    <description>Urban Anomaly Detection</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 27 Apr 2022 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://yijunsu.github.io/media/icon_hua828a018fbbdc401032aa7b1e2353e93_81559_512x512_fill_lanczos_center_3.png</url>
+      <title>Urban Anomaly Detection</title>
+      <link>https://yijunsu.github.io/tag/urban-anomaly-detection/</link>
+    </image>
+    
+    <item>
+      <title>Urban Anomaly Detection</title>
+      <link>https://yijunsu.github.io/project/anomaly_detection/</link>
+      <pubDate>Wed, 27 Apr 2022 00:00:00 +0000</pubDate>
+      <guid>https://yijunsu.github.io/project/anomaly_detection/</guid>
+      <description>&lt;p&gt;Urban anomalies, like traffic congestion and unexpected crowd gathering, usually occur in urban environments. It may pose tremendous risks to public safety and stability if not timely handled. For instance, on Apr. 30th, 2021, a tragic stampede took place in Mount Meron, Israel, resulting in 44 deaths and 150 injuries. If such urban anomalies could be timely sensed and detected in advance, the aforementioned accidents may be avoided. Accurate prediction of anomalies can help governments and communities properly deploy their limited resources to prevent anomalies from happening and ensure public safety.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;State of Urban Crowd Flow Sensing: accurately describe the crowd flow in urban areas, including outflow and inflow, and show the amount of crowd transfer between regions.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Region Crowd Flow Predicting: employ deep spatio-temporal residual networks to citywide crowd flows prediction by modeling the temporal closeness, period, and trend properties of crowd flow.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Region Crowd Anomaly Detection: propse a dual channel Spatio-Temporal learning framework for Urban Anomaly Detection.&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

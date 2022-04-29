@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Social Network | Yijun Su‘s Homepage</title>
+    <link>https://yijunsu.github.io/tag/social-network/</link>
+      <atom:link href="https://yijunsu.github.io/tag/social-network/index.xml" rel="self" type="application/rss+xml" />
+    <description>Social Network</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sun, 19 Jul 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://yijunsu.github.io/media/icon_hua828a018fbbdc401032aa7b1e2353e93_81559_512x512_fill_lanczos_center_3.png</url>
+      <title>Social Network</title>
+      <link>https://yijunsu.github.io/tag/social-network/</link>
+    </image>
+    
+    <item>
+      <title>User Alignment with Jumping Seed Alignment Information Propagation</title>
+      <link>https://yijunsu.github.io/publication/conference-paper/2020-ijcnn-jsaip/</link>
+      <pubDate>Sun, 19 Jul 2020 00:00:00 +0000</pubDate>
+      <guid>https://yijunsu.github.io/publication/conference-paper/2020-ijcnn-jsaip/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Aligning Users Across Social Networks by Joint User and Label Consistence Representation</title>
+      <link>https://yijunsu.github.io/publication/conference-paper/2019-iconip-ourlacer/</link>
+      <pubDate>Thu, 12 Dec 2019 00:00:00 +0000</pubDate>
+      <guid>https://yijunsu.github.io/publication/conference-paper/2019-iconip-ourlacer/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Anchor User Oriented Accordant Embedding for User Identity Linkage</title>
+      <link>https://yijunsu.github.io/publication/conference-paper/2019-iconip-aurorae/</link>
+      <pubDate>Thu, 12 Dec 2019 00:00:00 +0000</pubDate>
+      <guid>https://yijunsu.github.io/publication/conference-paper/2019-iconip-aurorae/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>User Identity Linkage with Accumulated Information from Neighbouring Anchor Links</title>
+      <link>https://yijunsu.github.io/publication/conference-paper/2018-wise-tpa/</link>
+      <pubDate>Mon, 12 Nov 2018 00:00:00 +0000</pubDate>
+      <guid>https://yijunsu.github.io/publication/conference-paper/2018-wise-tpa/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

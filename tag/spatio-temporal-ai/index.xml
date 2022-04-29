@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Spatio-Temporal AI | Yijun Su‘s Homepage</title>
+    <link>https://yijunsu.github.io/tag/spatio-temporal-ai/</link>
+      <atom:link href="https://yijunsu.github.io/tag/spatio-temporal-ai/index.xml" rel="self" type="application/rss+xml" />
+    <description>Spatio-Temporal AI</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 27 Apr 2022 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://yijunsu.github.io/media/icon_hua828a018fbbdc401032aa7b1e2353e93_81559_512x512_fill_lanczos_center_3.png</url>
+      <title>Spatio-Temporal AI</title>
+      <link>https://yijunsu.github.io/tag/spatio-temporal-ai/</link>
+    </image>
+    
+    <item>
+      <title>Urban Anomaly Detection</title>
+      <link>https://yijunsu.github.io/project/anomaly_detection/</link>
+      <pubDate>Wed, 27 Apr 2022 00:00:00 +0000</pubDate>
+      <guid>https://yijunsu.github.io/project/anomaly_detection/</guid>
+      <description>&lt;p&gt;Urban anomalies, like traffic congestion and unexpected crowd gathering, usually occur in urban environments. It may pose tremendous risks to public safety and stability if not timely handled. For instance, on Apr. 30th, 2021, a tragic stampede took place in Mount Meron, Israel, resulting in 44 deaths and 150 injuries. If such urban anomalies could be timely sensed and detected in advance, the aforementioned accidents may be avoided. Accurate prediction of anomalies can help governments and communities properly deploy their limited resources to prevent anomalies from happening and ensure public safety.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;State of Urban Crowd Flow Sensing: accurately describe the crowd flow in urban areas, including outflow and inflow, and show the amount of crowd transfer between regions.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Region Crowd Flow Predicting: employ deep spatio-temporal residual networks to citywide crowd flows prediction by modeling the temporal closeness, period, and trend properties of crowd flow.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Region Crowd Anomaly Detection: propse a dual channel Spatio-Temporal learning framework for Urban Anomaly Detection.&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Business AI Platform</title>
+      <link>https://yijunsu.github.io/project/business_ai-_platform/</link>
+      <pubDate>Wed, 20 Apr 2022 00:00:00 +0000</pubDate>
+      <guid>https://yijunsu.github.io/project/business_ai-_platform/</guid>
+      <description>&lt;p&gt;In view of the needs of large-scale commercial sales forecasting, supply and demand, auxiliary decision-making and other needs in the field of Commerce and Trade industry, the commerce and trade AI platform extracts reusable AI modules for commerce and trade applications from a large number of applications, such as community demand forecasting and region demand forecasting, and arranges open modules to make many intelligent functions build intelligent applications like building blocks.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;Community Demand Forecast&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Community Consumption Forecast&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Region Demand Forecast&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Region Consumption Forecast&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Category Sales Forecast&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Product Sales Forecast&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Recommender System of China Beijing International Fair for Trade in Services</title>
+      <link>https://yijunsu.github.io/project/ciftis_rs/</link>
+      <pubDate>Fri, 15 Apr 2022 00:00:00 +0000</pubDate>
+      <guid>https://yijunsu.github.io/project/ciftis_rs/</guid>
+      <description>&lt;p&gt;Integrating the user&amp;rsquo;s collection and click behavior data, we build a recommendation engine that bases multi-model integration including collaborative filtering and strategy. It not only brings users a good experience but also improves the distribution efficiency of items.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Spatio-Temporal Intelligent Recommendation Engine</title>
+      <link>https://yijunsu.github.io/project/st_rs/</link>
+      <pubDate>Fri, 15 Apr 2022 00:00:00 +0000</pubDate>
+      <guid>https://yijunsu.github.io/project/st_rs/</guid>
+      <description>&lt;p&gt;Based on users&amp;rsquo; historical interaction data, we use AI models to learn long-term and short-term preferences, recommend items that match their interest profiles, effectively solve the problem of information overload, and provide users with personalized decision support and information services.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>FGRec: A Fine-Grained Point-of-Interest Recommendation Framework by Capturing Intrinsic Influences</title>
+      <link>https://yijunsu.github.io/publication/conference-paper/2020-ijcnn-fgrec/</link>
+      <pubDate>Sun, 19 Jul 2020 00:00:00 +0000</pubDate>
+      <guid>https://yijunsu.github.io/publication/conference-paper/2020-ijcnn-fgrec/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>FGCRec: Fine-Grained Geographical Characteristics Modeling for Point-of-Interest Recommendation</title>
+      <link>https://yijunsu.github.io/publication/conference-paper/2020-icc-fgcrec/</link>
+      <pubDate>Sun, 07 Jun 2020 00:00:00 +0000</pubDate>
+      <guid>https://yijunsu.github.io/publication/conference-paper/2020-icc-fgcrec/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Personalized Point-of-Interest Recommendation on Ranking with Poisson Factorization</title>
+      <link>https://yijunsu.github.io/publication/conference-paper/2019-ijcnn-prfpf/</link>
+      <pubDate>Sun, 14 Jul 2019 00:00:00 +0000</pubDate>
+      <guid>https://yijunsu.github.io/publication/conference-paper/2019-ijcnn-prfpf/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Next Check-in Location Prediction via Footprints and Friendship on Location-Based Social Networks</title>
+      <link>https://yijunsu.github.io/publication/conference-paper/2018-mdm-muc/</link>
+      <pubDate>Mon, 25 Jun 2018 00:00:00 +0000</pubDate>
+      <guid>https://yijunsu.github.io/publication/conference-paper/2018-mdm-muc/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

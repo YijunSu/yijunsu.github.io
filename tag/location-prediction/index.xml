@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Location Prediction | Yijun Su‘s Homepage</title>
+    <link>https://yijunsu.github.io/tag/location-prediction/</link>
+      <atom:link href="https://yijunsu.github.io/tag/location-prediction/index.xml" rel="self" type="application/rss+xml" />
+    <description>Location Prediction</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 25 Jun 2018 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://yijunsu.github.io/media/icon_hua828a018fbbdc401032aa7b1e2353e93_81559_512x512_fill_lanczos_center_3.png</url>
+      <title>Location Prediction</title>
+      <link>https://yijunsu.github.io/tag/location-prediction/</link>
+    </image>
+    
+    <item>
+      <title>Next Check-in Location Prediction via Footprints and Friendship on Location-Based Social Networks</title>
+      <link>https://yijunsu.github.io/publication/conference-paper/2018-mdm-muc/</link>
+      <pubDate>Mon, 25 Jun 2018 00:00:00 +0000</pubDate>
+      <guid>https://yijunsu.github.io/publication/conference-paper/2018-mdm-muc/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
