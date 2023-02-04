@@ -5,12 +5,20 @@
     <link>https://yijunsu.github.io/tag/recommendation-system/</link>
       <atom:link href="https://yijunsu.github.io/tag/recommendation-system/index.xml" rel="self" type="application/rss+xml" />
     <description>Recommendation System</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Fri, 15 Apr 2022 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Fri, 10 Feb 2023 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://yijunsu.github.io/media/icon_hua828a018fbbdc401032aa7b1e2353e93_81559_512x512_fill_lanczos_center_3.png</url>
       <title>Recommendation System</title>
       <link>https://yijunsu.github.io/tag/recommendation-system/</link>
     </image>
+    
+    <item>
+      <title>Win-Win: A Privacy-Preserving Federated Framework for Dual-Target Cross-Domain Recommendation</title>
+      <link>https://yijunsu.github.io/publication/conference-paper/2023-aaai-p2fcdr/</link>
+      <pubDate>Fri, 10 Feb 2023 00:00:00 +0000</pubDate>
+      <guid>https://yijunsu.github.io/publication/conference-paper/2023-aaai-p2fcdr/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Recommender System of China Beijing International Fair for Trade in Services</title>
