@@ -33,6 +33,14 @@
     </item>
     
     <item>
+      <title>Multi-View Spatial-Temporal Enhanced Hypergraph Network for Next POI Recommendation</title>
+      <link>https://yijunsu.github.io/publication/conference-paper/2023-dasfaa-msthn/</link>
+      <pubDate>Mon, 17 Apr 2023 00:00:00 +0000</pubDate>
+      <guid>https://yijunsu.github.io/publication/conference-paper/2023-dasfaa-msthn/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Win-Win: A Privacy-Preserving Federated Framework for Dual-Target Cross-Domain Recommendation</title>
       <link>https://yijunsu.github.io/publication/conference-paper/2023-aaai-p2fcdr/</link>
       <pubDate>Fri, 10 Feb 2023 00:00:00 +0000</pubDate>
@@ -490,7 +498,7 @@ $$&lt;/p&gt;
 &lt;p&gt;Topic: &lt;b&gt;城市计算与时空联邦学习:助力智能城市创新应用&lt;/b&gt;&lt;/p&gt;
 &lt;/li&gt;
 &lt;li&gt;
-&lt;p&gt;&lt;a href=&#34;https://www.ccf.org.cn/YOCSEF/Branches/Chengdu/Upcoming_Events/lt/2021-10-09/745058.shtml&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;中国计算机学会青年计算机科技论坛成都分论坛&lt;/a&gt;, China, Oct 2021.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.ccf.org.cn/YOCSEF/Branches/Chengdu/Upcoming_Events/lt/2021-10-09/745058.shtml&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;中国计算机学会青年计算机科技论坛&lt;/a&gt;, China, Oct 2021.&lt;/p&gt;
 &lt;p&gt;Topic: &lt;b&gt;时空联邦：当时空数据遇到联邦学习&lt;/b&gt;&lt;/p&gt;
 &lt;/li&gt;
 &lt;li&gt;
@@ -583,6 +591,30 @@ $$&lt;/p&gt;
   &lt;/td&gt;&lt;/tr&gt;
 &lt;/tbody&gt;
 &lt;/table&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Students</title>
+      <link>https://yijunsu.github.io/student/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://yijunsu.github.io/student/</guid>
+      <description>&lt;p&gt;I am fortunate and enjoy working together with many talented students.&lt;/p&gt;
+&lt;h4 id=&#34;studentsinterns&#34;&gt;Students/Interns&lt;/h4&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;Gaode Chen, Ph.D. Student@University of Chinese Academy of Sciences (UCAS)&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Yantong Lai, Ph.D. Student@University of Chinese Academy of Sciences (UCAS)&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Tianci Wang, Ph.D. Student@University of Chinese Academy of Sciences (UCAS)&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Junhui Luo, Master Student @Southwest Jiaotong University&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
 </description>
     </item>
     
