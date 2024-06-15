@@ -5,12 +5,20 @@
     <link>https://yijunsu.github.io/publication/</link>
       <atom:link href="https://yijunsu.github.io/publication/index.xml" rel="self" type="application/rss+xml" />
     <description>Publications</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sun, 14 Apr 2024 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sun, 14 Jul 2024 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://yijunsu.github.io/media/icon_hua828a018fbbdc401032aa7b1e2353e93_81559_512x512_fill_lanczos_center_3.png</url>
       <title>Publications</title>
       <link>https://yijunsu.github.io/publication/</link>
     </image>
+    
+    <item>
+      <title>Disentangled Contrastive Hypergraph Learning for Next {POI} Recommendation</title>
+      <link>https://yijunsu.github.io/publication/conference-paper/2024-sigir-dchl/</link>
+      <pubDate>Sun, 14 Jul 2024 00:00:00 +0000</pubDate>
+      <guid>https://yijunsu.github.io/publication/conference-paper/2024-sigir-dchl/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Adaptive Spatial-Temporal Hypergraph Fusion Learning for Next POI Recommendation</title>

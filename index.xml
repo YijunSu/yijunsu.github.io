@@ -33,6 +33,14 @@
     </item>
     
     <item>
+      <title>Disentangled Contrastive Hypergraph Learning for Next {POI} Recommendation</title>
+      <link>https://yijunsu.github.io/publication/conference-paper/2024-sigir-dchl/</link>
+      <pubDate>Sun, 14 Jul 2024 00:00:00 +0000</pubDate>
+      <guid>https://yijunsu.github.io/publication/conference-paper/2024-sigir-dchl/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Adaptive Spatial-Temporal Hypergraph Fusion Learning for Next POI Recommendation</title>
       <link>https://yijunsu.github.io/publication/conference-paper/2024-icassp-asthl/</link>
       <pubDate>Sun, 14 Apr 2024 00:00:00 +0000</pubDate>
@@ -566,7 +574,13 @@ $$&lt;/p&gt;
 &lt;p&gt;&lt;a href=&#34;https://2024.acmmm.org/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;ACM International Conference on Multimedia(MM)&lt;/a&gt;, 2024&lt;/p&gt;
 &lt;/li&gt;
 &lt;li&gt;
-&lt;p&gt;&lt;a href=&#34;https://aaai-24.aaai.org/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;The AAAI Conference on Artificial Intelligence (AAAI)&lt;/a&gt;, 2025&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.dasfaa2024.org/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;The International Conference on Database Systems for Advanced Applications(DASFAA)&lt;/a&gt;, 2024&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&#34;https://aaai-25.aaai.org/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;The AAAI Conference on Artificial Intelligence (AAAI)&lt;/a&gt;, 2025&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.dasfaa2025.org/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;The International Conference on Database Systems for Advanced Applications(DASFAA)&lt;/a&gt;, 2025&lt;/p&gt;
 &lt;/li&gt;
 &lt;/ul&gt;
 &lt;h2 id=&#34;session-chair&#34;&gt;Session Chair&lt;/h2&gt;
@@ -636,6 +650,19 @@ $$&lt;/p&gt;
 &lt;p&gt;Junhui Luo, Master Student @Southwest Jiaotong University&lt;/p&gt;
 &lt;/li&gt;
 &lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>中文简介</title>
+      <link>https://yijunsu.github.io/chinese/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://yijunsu.github.io/chinese/</guid>
+      <description>&lt;p&gt;苏义军，中国科学院大学博士，入选北京亦麒麟优秀人才和京东集团博士管培生人才计划，现任京东集团人工智能科学家、高级经理和智能应用负责人，宁夏大学硕士导师，粤港澳大湾区人工智能产业智库专家、中国信通院数据安全智库专家、中国计算机学会大数据、自然语言处理、人工智能与模式识别专委会委员。担任国家重点研发计划项目子课题负责人，某省自然科学基金委评审专家、宁夏重点研发
+计划咨询专家。&lt;/p&gt;
+&lt;p&gt;长期从事人工智能、城市计算、隐私计算、大数据等领域的科技创新和产业化应用工作。发表SIGIR、AAAI、DASFAA等顶级学术论文20余篇，申请发明专利30余项，拥有软著10余项，参与行业和团体标准10余项；担任TKDE、KDD、WWW、AAAI、IJCAI等多个期刊和会议的评审人。&lt;/p&gt;
+&lt;p&gt;主导完成多项国家和省部级人工智能重大项目的落地，相关AI产品在北京、雄安、宿迁、青岛等数十个智慧城市项目中得到应用落地。主持和参与国家重点研发计划课题、国家自然科学基金、工信部人工智能先导区、北京市自然科学基金面上、北京市科委示范工程等科研项目10余项。拥有极好的技术视野和产学研用实践经验。&lt;/p&gt;
+&lt;p&gt;更多信息见 &lt;a href=&#34;https://www.suyijun.tech/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://www.suyijun.tech/&lt;/a&gt;&lt;/p&gt;
 </description>
     </item>
     
