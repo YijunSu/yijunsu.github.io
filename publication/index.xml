@@ -5,12 +5,44 @@
     <link>https://yijunsu.github.io/publication/</link>
       <atom:link href="https://yijunsu.github.io/publication/index.xml" rel="self" type="application/rss+xml" />
     <description>Publications</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sun, 14 Jul 2024 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sat, 09 May 2026 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://yijunsu.github.io/media/icon_hua828a018fbbdc401032aa7b1e2353e93_81559_512x512_fill_lanczos_center_3.png</url>
       <title>Publications</title>
       <link>https://yijunsu.github.io/publication/</link>
     </image>
+    
+    <item>
+      <title>Temporal-Aware Dynamic Graph Neural Networks for Next POI Recommendation</title>
+      <link>https://yijunsu.github.io/publication/journal-article/2026-eswa-tadgnn/</link>
+      <pubDate>Sat, 09 May 2026 00:00:00 +0000</pubDate>
+      <guid>https://yijunsu.github.io/publication/journal-article/2026-eswa-tadgnn/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Pre-Training Location Representations via Spatial-Temporal Trajectory Subgraph Contrastive Learning</title>
+      <link>https://yijunsu.github.io/publication/journal-article/2026-tst-st-tgcl/</link>
+      <pubDate>Mon, 13 Apr 2026 00:00:00 +0000</pubDate>
+      <guid>https://yijunsu.github.io/publication/journal-article/2026-tst-st-tgcl/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Adaptive Receptive Field Graph Neural Networks</title>
+      <link>https://yijunsu.github.io/publication/journal-article/2025-nn-adrpgnn/</link>
+      <pubDate>Wed, 01 Oct 2025 00:00:00 +0000</pubDate>
+      <guid>https://yijunsu.github.io/publication/journal-article/2025-nn-adrpgnn/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Fine-Grained Data Inference via Incomplete Multi-Granularity Data</title>
+      <link>https://yijunsu.github.io/publication/conference-paper/2025-www-mgsr/</link>
+      <pubDate>Mon, 28 Apr 2025 00:00:00 +0000</pubDate>
+      <guid>https://yijunsu.github.io/publication/conference-paper/2025-www-mgsr/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Disentangled Contrastive Hypergraph Learning for Next {POI} Recommendation</title>
@@ -41,6 +73,14 @@
       <link>https://yijunsu.github.io/publication/conference-paper/2023-aaai-p2fcdr/</link>
       <pubDate>Fri, 10 Feb 2023 00:00:00 +0000</pubDate>
       <guid>https://yijunsu.github.io/publication/conference-paper/2023-aaai-p2fcdr/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A Cross-City Federated Transfer Learning Framework: A Case Study on Urban Region Profiling</title>
+      <link>https://yijunsu.github.io/publication/preprint/2022-arxiv-ccftl/</link>
+      <pubDate>Tue, 31 May 2022 00:00:00 +0000</pubDate>
+      <guid>https://yijunsu.github.io/publication/preprint/2022-arxiv-ccftl/</guid>
       <description></description>
     </item>
     

@@ -33,6 +33,38 @@
     </item>
     
     <item>
+      <title>Temporal-Aware Dynamic Graph Neural Networks for Next POI Recommendation</title>
+      <link>https://yijunsu.github.io/publication/journal-article/2026-eswa-tadgnn/</link>
+      <pubDate>Sat, 09 May 2026 00:00:00 +0000</pubDate>
+      <guid>https://yijunsu.github.io/publication/journal-article/2026-eswa-tadgnn/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Pre-Training Location Representations via Spatial-Temporal Trajectory Subgraph Contrastive Learning</title>
+      <link>https://yijunsu.github.io/publication/journal-article/2026-tst-st-tgcl/</link>
+      <pubDate>Mon, 13 Apr 2026 00:00:00 +0000</pubDate>
+      <guid>https://yijunsu.github.io/publication/journal-article/2026-tst-st-tgcl/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Adaptive Receptive Field Graph Neural Networks</title>
+      <link>https://yijunsu.github.io/publication/journal-article/2025-nn-adrpgnn/</link>
+      <pubDate>Wed, 01 Oct 2025 00:00:00 +0000</pubDate>
+      <guid>https://yijunsu.github.io/publication/journal-article/2025-nn-adrpgnn/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Fine-Grained Data Inference via Incomplete Multi-Granularity Data</title>
+      <link>https://yijunsu.github.io/publication/conference-paper/2025-www-mgsr/</link>
+      <pubDate>Mon, 28 Apr 2025 00:00:00 +0000</pubDate>
+      <guid>https://yijunsu.github.io/publication/conference-paper/2025-www-mgsr/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Disentangled Contrastive Hypergraph Learning for Next {POI} Recommendation</title>
       <link>https://yijunsu.github.io/publication/conference-paper/2024-sigir-dchl/</link>
       <pubDate>Sun, 14 Jul 2024 00:00:00 +0000</pubDate>
@@ -61,6 +93,14 @@
       <link>https://yijunsu.github.io/publication/conference-paper/2023-aaai-p2fcdr/</link>
       <pubDate>Fri, 10 Feb 2023 00:00:00 +0000</pubDate>
       <guid>https://yijunsu.github.io/publication/conference-paper/2023-aaai-p2fcdr/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A Cross-City Federated Transfer Learning Framework: A Case Study on Urban Region Profiling</title>
+      <link>https://yijunsu.github.io/publication/preprint/2022-arxiv-ccftl/</link>
+      <pubDate>Tue, 31 May 2022 00:00:00 +0000</pubDate>
+      <guid>https://yijunsu.github.io/publication/preprint/2022-arxiv-ccftl/</guid>
       <description></description>
     </item>
     
@@ -469,123 +509,35 @@ $$&lt;/p&gt;
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://yijunsu.github.io/award/</guid>
       <description>&lt;ul&gt;
-&lt;li&gt;
-&lt;p&gt;Campus Recruitment Top 100 Best New Award, JD.com, 2022&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;Innovation Glory Project Award, JD.com, 2022&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;Yiqilin Excellent Talents, BEIJINGETOWN, 2021&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;Excellence Award in China Haidian High-Value Patent Cultivation Competition, China, 2021&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;Hackathon Runner-up Award, JD.com , 2021&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;Triple-A Student of Institute of Information Engineering, CAS, 2020&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;Best Student Paper Award Finalists, ICONIP, 2019&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;Merit Student, University of Chinese Academy of Sciences, 2019&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;Merit Student, University of Chinese Academy of Sciences, 2018&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;Merit Student, University of Chinese Academy of Sciences, 2017&lt;/p&gt;
-&lt;/li&gt;
-&lt;/ul&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Invited Talks</title>
-      <link>https://yijunsu.github.io/talk/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://yijunsu.github.io/talk/</guid>
-      <description>&lt;ul&gt;
-&lt;li&gt;
-&lt;p&gt;&lt;a href=&#34;https://www.nxu.edu.cn/info/1172/30264.htm&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;宁夏大学 学术报告&lt;/a&gt;, Yinchuan, China, July 2023.&lt;/p&gt;
-&lt;p&gt;Topic: &lt;b&gt;ChatGPT：生成式人工智能的奇点爆发&lt;/b&gt;&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;&lt;a href=&#34;https://www.ccf.org.cn/YOCSEF/Branches/Changsha/Upcoming_Events/lt/2022-07-23/765723.shtml&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CCF YOCSEF 长沙技术论坛&lt;/a&gt;, online talking, China, July 2022.&lt;/p&gt;
-&lt;p&gt;Topic: &lt;b&gt;城市计算与时空联邦学习:助力智能城市创新应用&lt;/b&gt;&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;&lt;a href=&#34;https://www.ccf.org.cn/YOCSEF/Branches/Chengdu/Upcoming_Events/lt/2021-10-09/745058.shtml&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;中国计算机学会青年计算机科技论坛&lt;/a&gt;, China, Oct 2021.&lt;/p&gt;
-&lt;p&gt;Topic: &lt;b&gt;时空联邦：当时空数据遇到联邦学习&lt;/b&gt;&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;&lt;a href=&#34;https://icc2020.ieee-icc.org/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;IEEE International Conference on Communications&lt;/a&gt;, online talking, China, May 2020.&lt;/p&gt;
-&lt;p&gt;Topic: &lt;b&gt;Fine-Grained Geographical Characteristics Modeling for Point-of-Interest Recommendation&lt;/b&gt;&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;&lt;a href=&#34;https://ieee-itss.org/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;International Joint Conference on Neural Networks&lt;/a&gt;, Budapest, July 2019.&lt;/p&gt;
-&lt;p&gt;Topic: &lt;b&gt;Personalized Point-of-Interest Recommendation on Ranking with Poisson Factorization&lt;/b&gt;&lt;/p&gt;
-&lt;/li&gt;
-&lt;/ul&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Professional Services</title>
-      <link>https://yijunsu.github.io/service/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://yijunsu.github.io/service/</guid>
-      <description>&lt;h2 id=&#34;journal-reviewer&#34;&gt;Journal Reviewer&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;
-&lt;p&gt;&lt;a href=&#34;https://ieee-itss.org/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;ACM Transactions on Intelligent Systems and Technology (T-IST)&lt;/a&gt;&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;&lt;a href=&#34;https://www.ieeesmc.org/publications/transactions-on-cybernetics&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;IEEE Transactions on Cybernetics (TCYB)&lt;/a&gt;&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;&lt;a href=&#34;https://www.springer.com/journal/11280&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;World Wide Web Journal (WWWJ)&lt;/a&gt;&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;&lt;a href=&#34;http://www.eurekaselect.com/journal/78&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Recent Patents on Engineering (RPE)&lt;/a&gt;&lt;/p&gt;
-&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2 id=&#34;conference-reviewer&#34;&gt;Conference Reviewer&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;
-&lt;p&gt;&lt;a href=&#34;https://www.kdd.org/kdd2022/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;ACM SIGKDD Conference on Knowledge Discovery and Data Mining (KDD)&lt;/a&gt;, 2021&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;&lt;a href=&#34;https://www2022.thewebconf.org/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;The ACM Web Conference (WWW)&lt;/a&gt;, 2022&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;&lt;a href=&#34;https://www.siam.org/conferences/cm/conference/sdm22&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;SIAM International Conference on Data Mining (SDM)&lt;/a&gt;, 2022&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;&lt;a href=&#34;https://aaai-23.aaai.org/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;The AAAI Conference on Artificial Intelligence (AAAI)&lt;/a&gt;, 2023&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;&lt;a href=&#34;https://aaai-24.aaai.org/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;The AAAI Conference on Artificial Intelligence (AAAI)&lt;/a&gt;, 2024&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;&lt;a href=&#34;https://2024.acmmm.org/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;ACM International Conference on Multimedia(MM)&lt;/a&gt;, 2024&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;&lt;a href=&#34;https://www.dasfaa2024.org/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;The International Conference on Database Systems for Advanced Applications(DASFAA)&lt;/a&gt;, 2024&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;&lt;a href=&#34;https://aaai-25.aaai.org/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;The AAAI Conference on Artificial Intelligence (AAAI)&lt;/a&gt;, 2025&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;&lt;a href=&#34;https://www.dasfaa2025.org/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;The International Conference on Database Systems for Advanced Applications(DASFAA)&lt;/a&gt;, 2025&lt;/p&gt;
-&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2 id=&#34;session-chair&#34;&gt;Session Chair&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;https://www.siam.org/conferences/cm/conference/sdm22&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;The AAAI Conference on Artificial Intelligence (AAAI)&lt;/a&gt;, 2023&lt;/li&gt;
+&lt;li&gt;2026, Young Talent Engineer, Young Talent Support Program, China Association for Science and Technology (CAST)&lt;/li&gt;
+&lt;li&gt;2026, Young Talent Support Program, Beijing High-Level Innovation Talent Program&lt;/li&gt;
+&lt;li&gt;2026, Qingteng Talent Program, JD Technology&lt;/li&gt;
+&lt;li&gt;2026, Senior Member, China Computer Federation (CCF)&lt;/li&gt;
+&lt;li&gt;2026, Beijing Certification of Achievements in Digital and Intelligent Innovation Applications&lt;/li&gt;
+&lt;li&gt;2026, Outstanding Case in IoT and Smart Cities&lt;/li&gt;
+&lt;li&gt;2026, Outstanding Collaborative Office Project Award, JD Technology&lt;/li&gt;
+&lt;li&gt;2026, Investment Review Expert, Henan Capital Group&lt;/li&gt;
+&lt;li&gt;2025, Selected Case of Innovative AI Agent Applications, Internet Society of China&lt;/li&gt;
+&lt;li&gt;2024, Excellence Award, Beijing Division, National “Data Elements ×” Competition&lt;/li&gt;
+&lt;li&gt;2024, AI Think Tank Expert for the Guangdong–Hong Kong–Macao Greater Bay Area, Guangdong Artificial Intelligence Industry Association&lt;/li&gt;
+&lt;li&gt;2024, Government Big Data Think Tank Expert, China Academy of Information and Communications Technology (CAICT)&lt;/li&gt;
+&lt;li&gt;2024, Outstanding Employee of the Year, JD Technology&lt;/li&gt;
+&lt;li&gt;2024, Guest Lecturer, Tsinghua University&lt;/li&gt;
+&lt;li&gt;2024, Master&amp;rsquo;s Supervisor, Ningxia University&lt;/li&gt;
+&lt;li&gt;2023, Industry Advisory Expert for Projects under the Ningxia Key R&amp;amp;D Program&lt;/li&gt;
+&lt;li&gt;2023, Outstanding Employee of the Year, JD Technology&lt;/li&gt;
+&lt;li&gt;2023, Third Prize, AI Application Innovation Competition, JD Technology&lt;/li&gt;
+&lt;li&gt;2023, Qingmiao Talent Program Award, JD Technology&lt;/li&gt;
+&lt;li&gt;2022, Campus Recruitment Top 100 Best New Award, JD.com&lt;/li&gt;
+&lt;li&gt;2022, Innovation Glory Project Award, JD.com&lt;/li&gt;
+&lt;li&gt;2021, Yiqilin Excellent Talents, BEIJINGETOWN&lt;/li&gt;
+&lt;li&gt;2021, Excellence Award in China Haidian High-Value Patent Cultivation Competition, China&lt;/li&gt;
+&lt;li&gt;2021, Hackathon Runner-up Award, JD.com&lt;/li&gt;
+&lt;li&gt;2020, Triple-A Student of Institute of Information Engineering, CAS&lt;/li&gt;
+&lt;li&gt;2019, Best Student Paper Award Finalists, ICONIP&lt;/li&gt;
+&lt;li&gt;2019, Merit Student, University of Chinese Academy of Sciences&lt;/li&gt;
+&lt;li&gt;2018, Merit Student, University of Chinese Academy of Sciences&lt;/li&gt;
+&lt;li&gt;2017, Merit Student, University of Chinese Academy of Sciences&lt;/li&gt;
 &lt;/ul&gt;
 </description>
     </item>
@@ -597,8 +549,7 @@ $$&lt;/p&gt;
       <guid>https://yijunsu.github.io/dataset/</guid>
       <description>&lt;table&gt;&lt;tbody&gt;
   &lt;tr&gt;&lt;td&gt;
-    &lt;font size=&#34;4.5&#34;&gt; &lt;b&gt;The datasets can be used for POI/next-POI recommendation, trajectory recommendation, friends recommendation (link prediction), activity recommendations, group recommendation and community discovery tasks: &lt;/br&gt;&lt;/b&gt;
-    &lt;/font&gt;
+    &lt;strong&gt;The datasets can be used for POI/next-POI recommendation, trajectory recommendation, friends recommendation (link prediction), activity recommendations, group recommendation and community discovery tasks:&lt;/strong&gt;
   &lt;/td&gt;&lt;/tr&gt;
   &lt;tr&gt;&lt;td&gt;
     &lt;a href=&#34;https://github.com/YijunSu/LBSN_Dataset&#34; target=&#34;_blank&#34;&gt;&lt;span style=&#34;color: #fff; background: #0820bf&#34;&gt;&amp;nbsp;&amp;nbsp;Foursquare_FGCRec&amp;nbsp;&amp;nbsp;&lt;/span&gt; &lt;/a&gt;: Foursquare includes check-in data ranging from April 2012 to September 2013.
@@ -630,6 +581,57 @@ $$&lt;/p&gt;
     </item>
     
     <item>
+      <title>Services</title>
+      <link>https://yijunsu.github.io/service/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://yijunsu.github.io/service/</guid>
+      <description>&lt;h2 id=&#34;journal-reviewer&#34;&gt;Journal Reviewer&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&#34;https://ieee-itss.org/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;ACM Transactions on Intelligent Systems and Technology (T-IST)&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&#34;https://dl.acm.org/journal/tois&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;ACM Transactions on Information Systems (TOIS)&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.ieeesmc.org/publications/transactions-on-cybernetics&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;IEEE Transactions on Cybernetics (TCYB)&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.springer.com/journal/11280&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;World Wide Web Journal (WWWJ)&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&#34;http://www.eurekaselect.com/journal/78&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Recent Patents on Engineering (RPE)&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;conference-reviewer&#34;&gt;Conference Reviewer&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.kdd.org/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;ACM SIGKDD Conference on Knowledge Discovery and Data Mining (KDD)&lt;/a&gt;, 2021-2026&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.thewebconf.org/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;The ACM Web Conference (WWW)&lt;/a&gt;, 2022-2026&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.siam.org/conferences/cm/conference/sdm22&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;SIAM International Conference on Data Mining (SDM)&lt;/a&gt;, 2022-2026&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&#34;https://aaai.org/conference/aaai/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;The AAAI Conference on Artificial Intelligence (AAAI)&lt;/a&gt;, 2023-2026&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.acmmm.org/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;ACM International Conference on Multimedia (MM)&lt;/a&gt;, 2024-2026&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.dasfaa.org/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;International Conference on Database Systems for Advanced Applications (DASFAA)&lt;/a&gt;, 2024-2026&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;session-chair&#34;&gt;Session Chair&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.siam.org/conferences/cm/conference/sdm22&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;The AAAI Conference on Artificial Intelligence (AAAI)&lt;/a&gt;, 2023&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
       <title>Students</title>
       <link>https://yijunsu.github.io/student/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -650,6 +652,10 @@ $$&lt;/p&gt;
 &lt;p&gt;Junhui Luo, Master Student @Southwest Jiaotong University&lt;/p&gt;
 &lt;/li&gt;
 &lt;/ul&gt;
+&lt;h4 id=&#34;collaborating-phd-students&#34;&gt;Collaborating Ph.D. Students&lt;/h4&gt;
+&lt;ul&gt;
+&lt;li&gt;Jinyue Li, Ph.D. Student@University of Science and Technology of China (USTC)&lt;/li&gt;
+&lt;/ul&gt;
 </description>
     </item>
     
@@ -658,11 +664,10 @@ $$&lt;/p&gt;
       <link>https://yijunsu.github.io/chinese/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://yijunsu.github.io/chinese/</guid>
-      <description>&lt;p&gt;苏义军，中国科学院大学博士，入选北京亦麒麟优秀人才和京东集团博士管培生人才计划，现任京东集团人工智能科学家、高级经理和智能应用负责人，宁夏大学硕士导师，粤港澳大湾区人工智能产业智库专家、中国信通院数据安全智库专家、中国计算机学会大数据、自然语言处理、人工智能与模式识别专委会委员。担任国家重点研发计划项目子课题负责人，某省自然科学基金委评审专家、宁夏重点研发
-计划咨询专家。&lt;/p&gt;
-&lt;p&gt;长期从事人工智能、城市计算、隐私计算、大数据等领域的科技创新和产业化应用工作。发表SIGIR、AAAI、DASFAA等顶级学术论文20余篇，申请发明专利30余项，拥有软著10余项，参与行业和团体标准10余项；担任TKDE、KDD、WWW、AAAI、IJCAI等多个期刊和会议的评审人。&lt;/p&gt;
-&lt;p&gt;主导完成多项国家和省部级人工智能重大项目的落地，相关AI产品在北京、雄安、宿迁、青岛等数十个智慧城市项目中得到应用落地。主持和参与国家重点研发计划课题、国家自然科学基金、工信部人工智能先导区、北京市自然科学基金面上、北京市科委示范工程等科研项目10余项。拥有极好的技术视野和产学研用实践经验。&lt;/p&gt;
-&lt;p&gt;更多信息见 &lt;a href=&#34;https://www.suyijun.tech/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://www.suyijun.tech/&lt;/a&gt;&lt;/p&gt;
+      <description>&lt;p&gt;苏义军，中国科学院大学AI博士，北京市高级职称副研究员、入选中国科协青年⼈才托举计划、北京市⾼创计划青年⼈才托举⼯程、北京亦麒麟优秀人才、京东集团TGT顶尖青年技术天才计划TGT，现任京东集团算法科学家和智能应用负责人，清华大学、北京大学、中国科学院大学讲座导师，宁夏政府办公厅AI专家委员会委员、粤港澳大湾区人工智能产业智库专家、中国信通院数据安全智库专家、中国计算机学会⾼级会员、中国计算机学会人工智能与模式识别专委会委员。担任国家重点研发计划项目子课题负责人，某省自然科学基金委评审专家、宁夏重点研发计划咨询专家。&lt;/p&gt;
+&lt;p&gt;长期从事人工智能（大模型和智能体）、隐私计算、城市计算、大数据等领域的科技创新和产业化应用工作。发表WWW、SIGIR、AAAI、DASFAA等顶级学术论文30余篇，申请发明专利50余项，授权11项，拥有软著10余项，参与行业和团体标准10余项；担任TKDE、KDD、WWW、AAAI、IJCAI等多个期刊和会议的评审人。&lt;/p&gt;
+&lt;p&gt;主导完成多项国家和省部级人工智能重大项目的落地，相关AI产品在北京、上海等数十个智慧城市项目中得到应用落地。主持和参与国家重点研发计划课题、国家自然科学基金、工信部人工智能先导区、北京市自然科学基金面上、北京市科委示范工程等科研项目10余项。拥有极好的技术视野和产学研用实践经验。&lt;/p&gt;
+&lt;p&gt;更多信息见 &lt;a href=&#34;https://www.suyijun.tech/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://www.suyijun.tech/&lt;/a&gt;。&lt;/p&gt;
 </description>
     </item>
     
